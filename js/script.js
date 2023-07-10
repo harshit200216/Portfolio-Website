@@ -5,7 +5,7 @@ window.addEventListener("load",function(){
     document.querySelector(".preloader").style.display="none";
   },1000)
 })
-// Aside Navbar sifuisfhsfu
+// Aside Navbar
 const nav=document.querySelector(".nav"),
 navList=nav.querySelectorAll("li"),
 totalNavList=navList.length,
